@@ -1,3 +1,3 @@
 # CRUD-WebsitePribadi
 Tugas Pelatihan Junior Web Developer
-https://crud-websitepribadi.github.io/
+https://mohamadalfinjauhari.github.io/crud-websitepribadi.github.io/
